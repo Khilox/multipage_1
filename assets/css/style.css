@@ -2135,7 +2135,7 @@ footer
 }
 /*13-07-2019*/
 .conatct-us {
-    background: url(../images/contact_bg.png) no-repeat;
+    background: url(../images/contactus.png) no-repeat;
     background-size: cover;
     background-position: center top;
     padding: 48px 43px 65px;
@@ -2159,14 +2159,14 @@ footer
     z-index: 0;
 }
 .conatct-us h2 {
-	color: #fff;
+	color: rgb(20, 20, 20);
 	font-size: 43px;
 	font-weight: 800;
 	margin-bottom: 13px;
 	text-transform: capitalize;
 }
 .conatct-us p {
-	border-bottom: 1px solid #fff;
+	border-bottom: 1px solid rgb(7, 7, 7);
 	margin-bottom: 10px;
 }
 .footer input::placeholder, .footer textarea::placeholder {
